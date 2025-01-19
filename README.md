@@ -1,3 +1,5 @@
-# VNS Core Download
+# Voicecoin Core Download
 
-Download VoiceWeb's VNS blockchain core to launch a node of the next generation Internet.
+This is a new minor version release that fixes bugs that were inherited from upstream Bitcoin code.
+
+All users, on all platforms, are strongly recommended to upgrade.
